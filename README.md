@@ -1,5 +1,12 @@
 # Calendar library
 
+[![Build Status](https://travis-ci.org/webinv/php-library-calendar.svg?branch=master)](https://travis-ci.org/webinv/php-library-calendar)
+[![Latest Stable Version](https://poser.pugx.org/webinv/calendar/v/stable)](https://packagist.org/packages/webinv/calendar)
+[![Total Downloads](https://poser.pugx.org/webinv/calendar/downloads)](https://packagist.org/packages/webinv/calendar)
+[![Latest Unstable Version](https://poser.pugx.org/webinv/calendar/v/unstable)](https://packagist.org/packages/webinv/calendar)
+[![License](https://poser.pugx.org/webinv/calendar/license)](https://packagist.org/packages/webinv/calendar)
+
+
 ## Installation
 
 `composer require webinv/calendar`

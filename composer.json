@@ -2,6 +2,7 @@
   "name": "webinv/calendar",
   "description": "Calendar Library",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Krzysztof Kardasz",
